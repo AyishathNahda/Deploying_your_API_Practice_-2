@@ -79,7 +79,7 @@ app.listen(3000, () => console.log("Server is running on port 3000."));
 
 ## **🏁 Outcome**
 By completing this exercise, you will:
-- Understand how to manipulate application behavior using environment variables.
+- Understand how to manipulate application behavior using environment vari\ables.
 - Learn to handle different environments securely and efficiently.
 
 🎉 **Congratulations!** You’ve mastered a crucial skill for **full-stack development**! 💼🔐
